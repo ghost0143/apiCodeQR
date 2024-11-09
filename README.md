@@ -12,6 +12,10 @@ Ce projet implémente une API RESTful pour gérer des QR codes, développée ave
 
 Clonez le projet depuis GitHub :
 
+## Lancer l'application avec Docker
+
 ```bash
-git clone <lien_du_dépôt>
-cd <nom_du_dépôt>
+git clone https://github.com/ghost0143/apiCodeQR
+
+
+
